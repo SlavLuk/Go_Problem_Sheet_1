@@ -1,3 +1,9 @@
+
+/*Author : Vyacheslav Lukyanov
+Id : G00339839
+Program description :Guess game
+*/
+
 package main
 
 import (//import packages
