@@ -21,7 +21,7 @@ func factorial(n int64) big.Int {
 
 	var f big.Int
 
-	f.MulRange(1, n)
+	f.MulRange(1, n)//multiply all numbers from 1 to n
 
 	return f
 
